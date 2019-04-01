@@ -6,6 +6,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concentus", "Concentus\Conc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concentus.OggFile", "Concentus.OggFile\Concentus.OggFile.csproj", "{054227A6-E3E7-40F9-94A4-A9CC3A4677CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOpusEncode", "TestOpusEncode\TestOpusEncode.csproj", "{70ADA253-F5FD-4885-B168-2058C094865A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{054227A6-E3E7-40F9-94A4-A9CC3A4677CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{054227A6-E3E7-40F9-94A4-A9CC3A4677CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{054227A6-E3E7-40F9-94A4-A9CC3A4677CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70ADA253-F5FD-4885-B168-2058C094865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70ADA253-F5FD-4885-B168-2058C094865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70ADA253-F5FD-4885-B168-2058C094865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70ADA253-F5FD-4885-B168-2058C094865A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
